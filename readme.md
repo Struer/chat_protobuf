@@ -1,0 +1,1 @@
+在netty3的基础上使用protobuf协议来传输数据，相比于chat_netty3只需要在数据解析和封装层添加protobuf的处理即可
